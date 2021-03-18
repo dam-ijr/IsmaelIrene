@@ -3,8 +3,9 @@ package practica;
 import java.util.Scanner;
 
 public class Ejercicio1 {
-	//Cambio del alumno 2 (Irene Zurera Briones)
 	//Cambio del alumno 1 (Ismael Jiménez Rísquez)
+	//Cambio del alumno 2 (Irene Zurera Briones)
+
 	// Constantes
 	private static final int EDAD_MAXIMA = 100;
 	private static final int LIMITE_NINNO = 12;
